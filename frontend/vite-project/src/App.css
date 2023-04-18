@@ -1,0 +1,13 @@
+.mainform{
+  width: 100%;
+
+}
+
+
+.row{
+  width:80%;
+  display: flex;
+  justify-content: center;
+
+  
+}
